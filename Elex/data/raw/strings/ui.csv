@@ -1,0 +1,218 @@
+﻿ID|English_Text|English_StageDir
+UI_SwitchProfile|Change profiles|
+UI_RevertShoppingCart|Reset trade|
+UI_SETTING_RefreshRate_Name|Refresh rate|
+UI_LOOT_Take|Remove|
+UI_ActionInput_RangedWeaponMod_Gamepad|Switch weapon mode|
+UI_PutIn|Put in|
+UI_CHARACTER_Items_Misc|Other|
+UI_CHARACTER_Items_Food|Food|
+UI_Craft|Craft|
+UI_Close|Close|
+UI_Apply|Apply|
+UI_CHARACTER_Weapons_TwoHanded|Two-handed|
+UI_SETTING_Difficulty_Stamina_Name|- Stamina cost|
+UI_SETTING_Difficulty_Stamina_Desc|Modifies the stamina cost for your actions.|
+UI_SETTING_FogQuality_Name|Fog Quality|
+UI_SETTING_ActionTips_Name|Action hints|
+UI_SETTING_EffectVolume_Name|Effects volume|
+UI_TRADE_ShoppingCart_Sold|Sold|
+UI_ActionInput_SecondaryAction_Melee|Parry (hold)|
+UI_ActionInput_Look_Ranged|Camera/Switch target|
+UI_SETTING_AutosaveInterval_Name|Auto save interval|
+UI_MENU_GameOver_BackToMainMenu_Desc|Return to the main menu|
+UI_CRAFTING_Weapons_Melee|Melee|
+UI_MENU_LoadGame_Name|Load game|
+UI_MENU_LoadGame_Desc|Load a save point|
+UI_SETTING_InverseCamera_Y_Name|Invert y axis on camera|
+UI_SETTING_SSAO_Name|Ambient occlusion|
+UI_CHARACTER_Armor_Neck|Neck|
+UI_CHARACTER_Armor_Head|Head|
+UI_CHARACTER_Armor_Hand|Hand|
+UI_CHARACTER_Armor_Body|Body|
+UI_ActionInput_SecondaryAction_Ranged|Aim (hold)|
+UI_CHARACTER_Weapons_Projectile|Guns|
+UI_SETTING_InverseCamera_X_Name|Invert x axis on camera|
+UI_SETTING_Stats_Name|Status screen|
+UI_CHARACTER_Items_ToolsAndKeys|Tool/key|
+UI_MENU_BackToMainMenu_Name|Back to the main menu|
+UI_MENU_BackToMainMenu_Desc|End your current adventure and return to the main menu|
+UI_CHARACTER_Quests_MissionItems|Items|
+UI_SETTING_CameraSpeed_Name|Camera speed|
+UI_CRAFTING_Modify|Modify Weapon|
+UI_SETTING_ScreenScale_Name|Scaling|
+UI_SETTING_Gamma_Name|Gamma|
+UI_SETTING_DepthOfField_Name|Field depth|
+UI_CHARACTER_Quests_Running|Running|
+UI_CHARACTER_Items_Potions|Potions|
+UI_MENU_GameOver_Continue_Desc|Load your last save point|
+UI_SETTING_Output_Name|Monitor|
+UI_SETTING_WorldViewRange_Name|Environment render range|
+UI_MENU_EXTRAS_Shadowplay_Name|Shadowplay Highlights|
+UI_MENU_EXTRAS_Shadowplay_Desc|Shows all Shadowplay Highlights Recordings|
+UI_CRAFTING_Socket_Items|Stones|
+UI_CRAFTING_Potions_Potions|Potions|
+UI_MENU_OPTIONS_Gamma_Name|Gamma|
+UI_MENU_OPTIONS_Gamma_Desc|Make a gamma correction|
+UI_CHARACTER_Quests|Missions|
+UI_MENU_OPTIONS_Graphics_Name|Graphics|
+UI_MENU_OPTIONS_Graphics_Desc|Configure graphics quality|
+UI_SETTING_Difficulty_Damage_Receive_Name|- Enemy damage|
+UI_SETTING_Difficulty_Damage_Receive_Desc|Modifies the damage dealt by enemies.|
+UI_SETTING_EventLog_Name|Event Log|
+UI_EndOfPreviewArea|End of the Demo|
+UI_AMOUNT_Text|Select quantity|
+UI_Select|Select|
+UI_MapLegend|Map Legend|
+UI_SETTING_HoldSneakButton_Name|Hold sneak button|
+UI_Revert|Revert|
+UI_Remove|Remove|
+UI_SETTING_HoldWalkButton_Name|Hold walk button|
+UI_CHARACTER_Items_Stims|Chems|
+UI_LOOT_PutIn|Put inside|
+UI_MENU_OPTIONS_ResolutionMode_Name|Graphics Mode|
+UI_MENU_OPTIONS_ResolutionMode_Desc|Choose between higher performance and higher graphics resolution|
+UI_CHARACTER_Items_Sockets|Socket|
+UI_CRAFTING_Jewelry|Create jewelry|
+UI_AcceptShoppingCart|Accept Trade|
+UI_MENU_Options_Name|Options|
+UI_MENU_Options_Desc|Change game settings|
+UI_SETTING_VSync_Name|VSync|
+UI_MENU_DEBUG_NewGame_Name|New game (TestLevel)|
+UI_Insert|Insert|
+UI_SETTING_Autosave_Name|Auto save|
+UI_Expand|Expand|
+UI_Delete|Delete|
+UI_SETTING_Subtitles_Name|Subtitles|
+UI_SETTING_ObjectViewRange_Name|Render range|
+UI_MENU_OPTIONS_Controls_Name|Keyboard and mouse|
+UI_MENU_OPTIONS_Controls_Desc|Configure keyboard and mouse settings|
+UI_CRAFTING_Weapons|Weapons|
+UI_Assign|Assign|
+UI_MENU_Exit_Name|Leave game|
+UI_MENU_Exit_Desc|End game|
+UI_CRAFTING_Potions|Brew potions|
+UI_SETTING_Difficulty_ComboPowerBoost_Name|- Combo Difficulty|
+UI_SETTING_Difficulty_ComboPowerBoost_Desc|Defines how fast your Combo Energy increases.|
+UI_ResetToDefault|Reset to default|
+UI_MENU_OPTIONS_Game_Name|Gameplay|
+UI_MENU_OPTIONS_Game_Desc|Configure game-related settings|
+UI_SETTING_HoldSprintButton_Name|Hold sprint button|
+UI_CHARACTER_Map|Map|
+UI_SETTING_AmbientVolume_Name|Environment volume|
+UI_MENU_NewGame_Name|New game|
+UI_MENU_NewGame_Desc|Begin a new adventure|
+UI_SETTING_VegetationQuality_Name|Vegetation quality|
+UI_ActionInput_Look_Melee|Camera/Switch opponent|
+UI_TRADE_Sell|Sell|
+UI_EndOfDemo|END|
+UI_CHARACTER_Quests_Finished|Complete|
+UI_CRAFTING_Jewelry_Amulets|Amulets|
+UI_SETTING_SpeechVolume_Name|Voice volume|
+UI_SETTING_Difficulty_Name|Difficulty|
+UI_SETTING_Difficulty_Desc|Choose between Easy, Normal, Hard and Ultra|
+UI_CRAFTING_Weapons_Ranged|Ranged|
+UI_ACHIEVEMENTS_Progress|Progress|
+UI_ActionInput_Jump_Gamepad|Jump/Climb/Jetpack|
+UI_ActionInput_WeaponMode_Melee|Sheath/holster weapon|
+UI_AssignQuickslot|Assign Quick Slot|
+UI_MENU_Extras_Name|Extras|
+UI_MENU_Extras_Desc|Browse through extra content|
+UI_MENU_Continue_Name|Continue|
+UI_MENU_Continue_Desc|Your adventure continues ...|
+UI_CRAFTING_Potions_Stims|Chems|
+UI_SETTING_AutoTargetLock_Name|- Close Combat Focus|
+UI_SETTING_AutoTargetLock_Desc|In Close Combat all enemies are automatically focused.|
+UI_Pickpocket|Pick pocket|
+UI_MENU_OPTIONS_Audio_Name|Audio|
+UI_MENU_OPTIONS_Audio_Desc|Configure audio settings|
+UI_TRADE_ShoppingCart_Bought|Bought|
+UI_ActionInput_PrimaryAction_Ranged|Fire|
+UI_SETTING_ShadowplayHighlight|Shadowplay Highlight|
+UI_CHARACTER_Quests_Recipe|Recipes|
+UI_SETTING_TextureQuality_Name|Texture quality|
+UI_MENU_OPTIONS_KeyBindings_Name|Key bindings|
+UI_MENU_OPTIONS_KeyBindings_Desc|Change key bindings|
+UI_Currency|Elexit|
+UI_SetUserMarker|Set marker|
+UI_SETTING_QuestLog_Name|Quest Log|
+UI_ActionInput_WeaponMode_Normal|Draw weapon|
+UI_ActionInput_PrimaryAction_Normal|Pick up/Use|
+UI_SETTING_Difficulty_Behavior_Name|- Combat behavior|
+UI_SETTING_Difficulty_Behavior_Desc|Defines your enemy's behavior during combat.|
+UI_TRADE_Buy_All|All|
+UI_CHARACTER_Weapons_OneHanded|One-handed|
+UI_CRAFTING_ApplySocketItem|Apply Gem|
+UI_CRAFTING_Salvage|Salvage Weapon|
+UI_CHARACTER_Quests_Audiologs|Audio Logs|
+UI_SETTING_ConsequencesLog_Name|Consequences Log|
+UI_MENU_SaveGame_Name|Save game|
+UI_MENU_SaveGame_Desc|Save current game|
+UI_SETTING_Difficulty_Minigames_Name|- Mini Games|
+UI_SETTING_Difficulty_Minigames_Desc|Defines the difficulty level of Mini Games.|
+UI_MarkQuest|Mark on the map|
+UI_SETTING_Difficulty_AimingAssist_Name|- Aiming Help|
+UI_SETTING_Difficulty_AimingAssist_Desc|Helps you to keep you enemies in focus during Ranged Combat.|
+UI_TakeAll|Take all|
+UI_SETTING_Difficulty_Damage_Deal_Name|- Player damage|
+UI_SETTING_Difficulty_Damage_Deal_Desc|Modifies the damage dealt by yourself.|
+UI_CHARACTER_Perks|Abilities|
+UI_CHARACTER_Items|Items|
+UI_CHARACTER_Armor|Armor|
+UI_Gamma_Label|Use $(ActionInput_Move) until you can barely see the logo.|
+UI_SETTING_ShaderQuality_Name|Shader quality|
+UI_SETTING_FocusHighlight_Name|Focus Highlight|
+UI_CRAFTING_Jewelry_Rings|Rings|
+UI_SETTING_WindowMode_Name|Windowed mode|
+UI_CHARACTER_Quests_Written|Written|
+UI_SETTING_MasterVolume_Name|Main volume|
+UI_SETTING_PostAA_Name|PostAA|
+UI_SETTING_Resolution_Name|Resolution|
+UI_SETTING_AspectRatio_Name|Aspect ratio|
+UI_SETTING_Hud_Name|HUD|
+UI_ActionInput_PrimaryAction_Melee|Quick Attack|
+UI_MENU_Pause_Name|Pause menu|
+UI_SETTING_EvadeDoubleTip|Evade (2x $(Key_XY))|
+UI_ActionInput_Move|Movement|
+UI_ActionInput_Look|Camera|
+UI_CHARACTER_Weapons_Ammo|Ammunition|
+UI_SETTING_OpponentLevel_Name|Enemy Level|
+UI_CHARACTER_Items_Plants|Plants|
+UI_SETTING_Tutorial_Name|Tutorial|
+UI_SAVEGAME_Quicksave|Quick save|
+UI_SETTING_GamepadVibration_Name|Vibration effects|
+UI_Zoom|Zoom|
+UI_Take|Take|
+UI_Sell|Sell|
+UI_Save|Save|
+UI_Load|Load|
+UI_Hack|Hack|
+UI_Cook|Prepare|
+UI_Back|Back|
+UI_MENU_EXTRAS_Credits_Name|Contributors|
+UI_MENU_EXTRAS_Credits_Desc|View everyone who contributed to this game|
+UI_CHARACTER_Items_Materials|Materials|
+UI_SETTING_ShadowQuality_Name|Shadow quality|
+UI_CHARACTER_Weapons|Weapons|
+UI_TRADE_ShoppingCart|Trades|
+UI_SETTING_GamepadLayout_Name|Bindings|
+UI_Buy|Buy|
+UI_CRAFTING_Level|Improve Weapon|
+UI_ActionInput_Sprint_Gamepad|Sprint (hold)|
+UI_MENU_OPTIONS_Difficulty_Name|Difficulty|
+UI_MENU_OPTIONS_Difficulty_Desc|Configure the difficulty level|
+UI_SETTING_MusicVolume_Name|Music volume|
+UI_MENU_OPTIONS_Video_Name|Video|
+UI_MENU_OPTIONS_Video_Desc|Configure video settings|
+UI_SETTING_AnisotrophicFiltering_Name|Anisotropic filtering|
+UI_CHARACTER_Attributes|Attribute|
+UI_TeleportBackToCamp|Return to Camp|
+UI_SETTING_Minimap_Name|Radar|
+UI_CHARACTER_Armor_Leg|Leg|
+UI_MENU_EXTRAS_Achievements_Name|Achievements|
+UI_MENU_EXTRAS_Achievements_Desc|View a list of your achievements|
+UI_Loading|LOADING|
+UI_TRADE_Buy|Buy|
+UI_CHARACTER_Weapons_Spell|Magic|
+UI_CHARACTER_Weapons_Heavy|Heavy|
+UI_Salvage|Salvage|

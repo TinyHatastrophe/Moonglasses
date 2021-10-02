@@ -1,0 +1,14 @@
+﻿ui:UI_ActionInput_Jump_Gamepad|775facb9|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_Look_Melee|82c7514b|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_Look_Ranged|e7140574|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_Look|37084084|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_Move|3708cdc6|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_PrimaryAction_Melee|38f64178|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_PrimaryAction_Normal|5acbfa59|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_PrimaryAction_Ranged|6320fb41|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_RangedWeaponMod_Gamepad|f4f9a0b8|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_SecondaryAction_Melee|e75e02dc|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_SecondaryAction_Ranged|de80e925|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_Sprint_Gamepad|1ca3215d|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_WeaponMode_Melee|77088da5|#X64:/data/compiled/documents/w_input.hdr
+ui:UI_ActionInput_WeaponMode_Normal|5b27cc26|#X64:/data/compiled/documents/w_input.hdr

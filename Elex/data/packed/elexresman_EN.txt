@@ -1,0 +1,192 @@
+------
+Elex Resource Manager v1.1 by Baltram <baltram-lielb@web.de> (Februar 19th 2018)
+------
+
+  This tool makes it possible to access and modify the game data of Elex, which
+  is contained in the .pak archives under ELEX\data\packed.
+  Supported file types and actions:
+
+    Elex PAK volume : (un)pack .pak     <--> [folder]
+    Elex document   :  convert .hdr     <--> .hdrdoc
+    Elex image      :  convert .eleximg <--> .dds
+    Elex sound      :  convert .elexsnd <--> .mp3 or --> .wav
+    Elex dialog     :  convert .elexdlg <--> .mp3 or --> .wav
+    Elex template   :  convert .elextpl <--> .elextpldoc
+    Elex world      :  convert .elexwrl <--> .elexwrldoc
+    Elex sector     :  convert .elexsec <--> .elexsecdoc
+    Sector modifi-
+    cation file     :  process .elexsecmod
+  
+  You can use any text editor to view and edit .hdrdoc, .elextpldoc, 
+  .elexwrldoc, .elexsecdoc and .elexsecmod files.
+
+  Below are short instructions on how to perform the conversions.
+  (For non-interactive use of this tool, see the list of command line parameters 
+  at the end of this document.)
+
+Unpacking Elex volumes (.pak)
+
+  Drag the .pak file onto elexresman.exe. A folder will be created (in the same 
+  place as the .pak) containing the volume's contents.
+
+Packing Elex volumes (.pak)
+
+  Drag a folder onto elexresman.exe and enter the archive generation of 
+  your choice (1-9). A .pak volume will be created (in the same place as the 
+  folder) containing the folder's contents.
+  The archive generation determines the order in which Elex loads the archives.
+  
+  Note that no subfolder may contain resources of more than one type 
+  (e.g. .eleximg, .elexsnd).
+  
+Converting Elex documents (.hdr) to .hdrdoc
+
+  Drag the .hdr file onto elexresman.exe.
+  To convert all .hdr files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_hdr' batch script.
+  
+  Tip: You can delete the 'Timestamp' attribute of entries in a .hdrdoc file in
+  order to have the entries' time stamps updated upon conversion to .hrd.
+  
+Converting Elex documents (.hdrdoc) to .hdr
+
+  Drag the .hdrdoc file onto elexresman.exe.
+  To convert all .hdrdoc files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_hdrdoc' batch script.
+
+Converting Elex images (.eleximg) to .dds
+
+  Drag the .eleximg file onto elexresman.exe.
+  To convert all .eleximg files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_eleximg' batch script.
+  
+  Note: Some .dds files use BC7 texture compression which many image editors
+  cannot handle. To uncompress such a .dds file or a whole folder, drag it onto 
+  the batch script 'convert_BC7_to_B8G8R8A8' in the 'dds' folder.
+  To see the utilized texture compression of a .dds file, you can drag it onto 
+  the batch script 'show_format'.
+  These batch scripts require the programs texdiag.exe and texconv.exe to be 
+  present in the 'dds' folder. You can download them here:
+  https://github.com/Microsoft/DirectXTex/releases
+  
+Converting DDS images to Elex images (.eleximg)
+
+  Drag the .dds file onto elexresman.exe.
+  To convert all .dds files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_dds' batch script.
+  
+  Tip: If you are unsure about texture compression, use DXT1 for opaque textures
+  and DXT3/5 for textures with hard/soft transparency.
+  
+Converting Elex sounds (.elexsnd) to .wav or .mp3
+
+  Drag the .elexsnd file onto elexresman.exe.
+  To convert all .elexsnd files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elexsnd' batch script.
+  
+  Note: Original .elexsnd files are converted to .wav while custom ones are
+  converted to .mp3.
+  
+Converting MP3 sounds to Elex sounds (.elexsnd)
+
+  Drag the .mp3 file onto elexresman.exe.
+  To convert all .mp3 files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_mp3' batch script.
+  
+Converting Elex dialogs (.elexdlg) to .wav or .mp3
+
+  Drag the .elexdlg file onto elexresman.exe.
+  To convert all .elexdlg files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elexdlg' batch script.
+  
+  Note: Original .elexdlg files are converted to .wav while custom ones are
+  converted to .mp3.
+  
+Injecting MP3 sounds into Elex dialogs (.elexdlg)
+
+  This requires an existing .elexdlg file to be present in the same folder and
+  with the same name as the .mp3 file.
+  
+  Drag the .mp3 file onto elexresman.exe.
+  To convert all .mp3 files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_mp3' batch script.
+  
+Converting Elex templates (.elextpl) to .elextpldoc
+
+  Drag the .elextpl file onto elexresman.exe.
+  To convert all .elextpl files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elextpl' batch script.
+
+Converting Elex template documents (.elextpldoc) to .elextpl
+
+  Drag the .elextpldoc file onto elexresman.exe.
+  To convert all .elextpldoc files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elextpldoc' batch script.
+
+  Note: When cloning an Elex template, you need to modify both GUIDs in order to
+  ensure uniqueness.
+  
+Converting Elex worlds (.elexwrl) to .elexwrldoc
+
+  Drag the .elexwrl onto elexresman.exe.
+  To convert all .elexwrl files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elexwrl' batch script.
+
+Converting Elex world documents (.elexwrldoc) to .elexwrl
+
+  Drag the .elexwrldoc file onto elexresman.exe.
+  To convert all .elexwrldoc files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elexwrldoc' batch script.
+  
+Converting Elex sectors (.elexsec) to .elexsecdoc
+
+  Drag the .elexsec file onto elexresman.exe.
+  To convert all .elexsec files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elexsec' batch script.
+
+Converting Elex sector documents (.elexsecdoc) to .elexsec
+
+  Drag the .elexsecdoc file onto elexresman.exe.
+  To convert all .elexsecdoc files in a folder (and subfolders) drag that folder
+  onto the 'elexresman_elexsecdoc' batch script.
+
+  Note: When cloning an entity in a sector, you need to modify its GUID in order
+  to ensure uniqueness.
+  
+  Also note: To change the position or rotation of an entity you can insert the
+  attributes 'NewPos' (vector) and/or 'NewRot' (euler angles: Yaw, Pitch, Roll)
+  just before the 'MatrixLocal' attribute. Example:
+  NewPos = (vec -276210.9 42547 -236502.8);
+  NewRot = (euler 0 1.570796 0);
+  
+Processing Elex sector modification files (.elexsecmod)
+
+  Drag the .elexsecmod file onto elexresman.exe.
+  The program opens and modifies all sector documents (.elexsecdoc) in the 
+  same folder as the .elexsecmod file. It also opens and reads template 
+  document files in that folder to obtain the property set data as specified in 
+  the .elexsecmod file. Property sets in the sectors are replaced by those from 
+  the templates.
+  
+  .elexsecmod files are text documents that contain one or multiple lines. Each 
+  line starts with the GUID or the name of a template (the name must be in 
+  quotes). The rest of the line consists of a list of property set names 
+  separated by spaces. Example of a two-line .elexsecmod file:
+  
+  "It_Po_Healing_Small" gCItemConsumable_PS gCInteraction_PS
+  {4A09B19E-4A4D-40E8-8929-055D53EC1BB6} gCNPC_PS
+
+Command line parameters:
+
+  --non-interactive                   - Disables prompts 
+                                        (such as pressing the enter key)
+  --generation [number in range 0-9]  - Specifies the generation when creating 
+                                        .pak volumes
+
+Usage:
+
+  elexresman.exe <file or folder> <parameters>
+  
+Source code:
+
+  https://github.com/Baltram/rmtools/blob/master/mimicry/source/MimicryApp/elexresman.cpp

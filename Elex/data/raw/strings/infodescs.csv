@@ -1,0 +1,456 @@
+﻿ID|English_Text|English_StageDir
+INFO_DESC_WEIDMANNFX8_00000014|(Deposit compromising recording)|
+INFO_DESC_WEIDMANNFX8_00000013|(Deposit Elex for the Claws)|
+INFO_DESC_WEIDMANNFX8_00000012|(Deposit Mad Bob's bunker key)|
+INFO_DESC_WEIDMANNFX8_00000011|(Deposit Cleric research documents)|
+INFO_DESC_WEIDMANNFX8_00000010|(Deposit Fighting Colossus blueprints)|
+INFO_DESC_WEIDMANNFX8_00000009|(Deposit stolen supplies)|
+INFO_DESC_WEIDMANNFX8_00000008|Forget it, I won't pay. (Bargain)|
+INFO_DESC_WEIDMANNFX8_00000007|I don't have enough to pay you. (Lie)|
+INFO_DESC_WEIDMANNFX8_00000006|Gain Access to Thiefguild Area (Not joining)|
+INFO_DESC_WEIDMANNFX8_00000005|Gain Access to KLECity Area|
+INFO_DESC_WEIDMANNFX8_00000004|Gain Access to ABECity Area|
+INFO_DESC_WEIDMANNFX8_00000003|Set permission to access area|
+INFO_DESC_WEIDMANNFX8_00000002|The Outlaws are good people and you are their friend. (Suggest)|
+INFO_DESC_WEIDMANNFX8_00000001|Calaan does not exist. Your god is a lie! (Suggest)|
+INFO_DESC_End|(End)|
+INFO_DESC_KALVERAMX62_00000033|Let's trade.|
+INFO_DESC_KALVERAMX62_00000024|Test Routine |
+INFO_DESC_KALVERAMX62_00000013|Start|
+INFO_DESC_KALVERAMX62_00000003|Start|
+INFO_DESC_KALVERAMX62_00000001|Test Routine |
+INFO_DESC_DIRKSI5_00000001|(Manipulate security system)|
+INFO_DESC_SLEEP_HIGHNOON|(Sleep until midday) |
+INFO_DESC_IKENI7_00000072|Testroutine3|
+INFO_DESC_IKENI7_00000071|Testroutine2|
+INFO_DESC_IKENI7_00000070|Test Routine 3|
+INFO_DESC_IKENI7_00000069|Test Routine 2|
+INFO_DESC_IKENI7_00000068|I've found out who was doing the smuggling. (Betray Shorty)|
+INFO_DESC_IKENI7_00000066|Why do you want to look at that? (Show Xander's claw)|
+INFO_DESC_IKENI7_00000065|Why do you want to look at that? (Show Rat's claw)|
+INFO_DESC_IKENI7_00000064|Nothing. (Hide the truth from Eva)|
+INFO_DESC_IKENI7_00000063|I was robbed by Outlaws. (Lie)|
+INFO_DESC_IKENI7_00000060|I know who is trying to smuggle weapons into the Domed City. (Betray Paige)|
+INFO_DESC_IKENI7_00000059|No. (Lie)|
+INFO_DESC_IKENI7_00000058|Think about it, they pay well. (Bribe Rider)|
+INFO_DESC_IKENI7_00000057|(Place explosive)|
+INFO_DESC_IKENI7_00000056|(Manipulate access rights to the Archives)|
+INFO_DESC_IKENI7_00000055|Want to buy some Cleric's weapons? (Show weapons)|
+INFO_DESC_IKENI7_00000054|No deal. (Attack Keith)|
+INFO_DESC_IKENI7_00000053|I have what you wanted. (Hand over Arvid's teachings)|
+INFO_DESC_IKENI7_00000052|I lost my ID. (Lie)|
+INFO_DESC_IKENI7_00000051|I have a suspect for you. (Accuse Shorty)|
+INFO_DESC_IKENI7_00000049|Here, take the shards.|
+INFO_DESC_IKENI7_00000048|You want me to demand that you give me the supply? (Threaten Shorty)|
+INFO_DESC_IKENI7_00000047|Here, I'll take it.|
+INFO_DESC_IKENI7_00000045|Here's a grenade launcher from the farm. Is that what you wanted? (Show weapon)|
+INFO_DESC_IKENI7_00000042|Brabak is right. You're a total waste of skin. (Provoke Riley)|
+INFO_DESC_IKENI7_00000041|You need to learn respect for others. (Provoke Brabak)|
+INFO_DESC_IKENI7_00000040|You're going to pay me. Now. (Threaten)|
+INFO_DESC_IKENI7_00000039|(Recalibrate antenna and place bug)|
+INFO_DESC_IKENI7_00000038|(Recalibrate antenna)|
+INFO_DESC_IKENI7_00000037|No. (Don't show ID)|
+INFO_DESC_IKENI7_00000036|Here it is. (Show ID)|
+INFO_DESC_IKENI7_00000035|I am a Cleric, they are now my people. (Attack Radok)|
+INFO_DESC_IKENI7_00000034|You are back in business. (Hand over weapons delivery)|
+INFO_DESC_IKENI7_00000033|Wrong choice, now you die. (Attack)|
+INFO_DESC_IKENI7_00000032|I have had enough of you. (Attack Trevor)|
+INFO_DESC_IKENI7_00000031|Wrong. Your time just ran out. (Attack Trevor)|
+INFO_DESC_IKENI7_00000030|Here, I found these. (Show Cleric weapons)|
+INFO_DESC_IKENI7_00000029|I want my shards back. (Provoke Iron Madison)|
+INFO_DESC_IKENI7_00000028|Cindy, she wants you dead. (Betray Cindy)|
+INFO_DESC_IKENI7_00000027|Why do you want to look at that? (Show Katta's claw)|
+INFO_DESC_IKENI7_00000026|Here is the Elexit for Frank. (Pay ransom)|
+INFO_DESC_IKENI7_00000024|I'm not telling you a thing. (Provoke Iron Madison)|
+INFO_DESC_IKENI7_00000023|(Hear more)|
+INFO_DESC_IKENI7_00000022|(Buy Volkmar's weapon)|
+INFO_DESC_IKENI7_00000021|CSGunnAmbushArena|
+INFO_DESC_IKENI7_00000020|Here, how about a drink? A toast to your future in charge of the Fort. (Drug Big Jim)|
+INFO_DESC_IKENI7_00000019|(Give Gunn a big chunk of shards)|
+INFO_DESC_IKENI7_00000018|(Give Gunn a chunk of shards)|
+INFO_DESC_IKENI7_00000017|(Give Gunn a handful of shards)|
+INFO_DESC_IKENI7_00000016|We should drink to it. (Offer a beer)|
+INFO_DESC_IKENI7_00000014|(Set down crate)|
+INFO_DESC_IKENI7_00000013|Here, buy some yourself.|
+INFO_DESC_IKENI7_00000012|Give me what you found. (Rob Ethan)|
+INFO_DESC_IKENI7_00000011|Want to see what I found in the canyon? (Hand over blueprints)|
+INFO_DESC_IKENI7_00000010|Well, you don't have to fight now, all you have to do is hand over everything you have. (Rob Ethan)|
+INFO_DESC_IKENI7_00000008|(Say nothing)|
+INFO_DESC_IKENI7_00000007|The dead don't talk. (Threaten Drog)|
+INFO_DESC_IKENI7_00000006|I won't do business with you. (Attack Bigby)|
+INFO_DESC_IKENI7_00000004|I brought you some bread. (Give moldy bread)|
+INFO_DESC_SLEEP_MORNING|(Sleep until the morning)|
+INFO_DESC_Back|(Back)|
+INFO_DESC_GARTMANNI3_00000034|Pick PSI Thrower|
+INFO_DESC_GARTMANNI3_00000033|Pick PSI Amplifier|
+INFO_DESC_GARTMANNI3_00000032|Pick Magical Fist of Poison|
+INFO_DESC_GARTMANNI3_00000031|Pick Magical Fist of Ice|
+INFO_DESC_GARTMANNI3_00000030|Pick Magical Fist of Fire|
+INFO_DESC_GARTMANNI3_00000029|(Add map piece 16)|
+INFO_DESC_GARTMANNI3_00000028|(Add map piece 15)|
+INFO_DESC_GARTMANNI3_00000027|(Add map piece 14)|
+INFO_DESC_GARTMANNI3_00000026|(Add map piece 13)|
+INFO_DESC_GARTMANNI3_00000025|(Add map piece 12)|
+INFO_DESC_GARTMANNI3_00000024|(Add map piece 11)|
+INFO_DESC_GARTMANNI3_00000023|(Add map piece 10)|
+INFO_DESC_GARTMANNI3_00000022|(Add map piece 09)|
+INFO_DESC_GARTMANNI3_00000021|(Add map piece 08)|
+INFO_DESC_GARTMANNI3_00000020|(Add map piece 07)|
+INFO_DESC_GARTMANNI3_00000019|(Add map piece 06)|
+INFO_DESC_GARTMANNI3_00000018|(Add map piece 05)|
+INFO_DESC_GARTMANNI3_00000017|(Add map piece 04)|
+INFO_DESC_GARTMANNI3_00000016|(Add map piece 03)|
+INFO_DESC_GARTMANNI3_00000015|(Add map piece 02)|
+INFO_DESC_GARTMANNI3_00000014|(Add map piece 01)|
+INFO_DESC_GARTMANNI3_00000013|(Dismantle weapon system)|
+INFO_DESC_GARTMANNI3_00000011|How about you stop eating people and work with me? (Negotiate)|
+INFO_DESC_GARTMANNI3_00000010|Kill me? It's you who's going to die. (Attack Arx)|
+INFO_DESC_GARTMANNI3_00000009|Never mind. We'll talk later. (Back)|
+INFO_DESC_GARTMANNI3_00000008|(Cut off head)|
+INFO_DESC_GARTMANNI3_00000007|(Cut off head)|
+INFO_DESC_GARTMANNI3_00000006|(Cut off head)|
+INFO_DESC_GARTMANNI3_00000005|Alright. (Back)|
+INFO_DESC_GARTMANNI3_00000004|CS_FalkMeetsKonrad|
+INFO_DESC_GARTMANNI3_00000003|If you say so. (Back)|
+INFO_DESC_GARTMANNI3_00000002|Yes. (Truth)|
+INFO_DESC_GARTMANNI3_00000001|No. (Lie)|
+INFO_DESC_SLEEP_MIDNIGHT|(Sleep until midnight) |
+INFO_DESC_PANKRATZI7_00000230|Prepare Harley for CSGlidersLastFlight|
+INFO_DESC_PANKRATZI7_00000229|Enter security code 7392.|
+INFO_DESC_PANKRATZI7_00000228|Start CSPlayerSeemsToBeNoRealAlb|
+INFO_DESC_PANKRATZI7_00000227|Start CSWardekAgainstElexetors|
+INFO_DESC_PANKRATZI7_00000226|Start CSPlayersGliderRepair|
+INFO_DESC_PANKRATZI7_00000225|Start CSPlayersGliderRepair|
+INFO_DESC_PANKRATZI7_00000224|Start CSZardomMeetsTarek|
+INFO_DESC_PANKRATZI7_00000223|Start CSVisionKallaxMyBrother|
+INFO_DESC_PANKRATZI7_00000222|Start CSVisionSoldiersWarning|
+INFO_DESC_PANKRATZI7_00000221|Start CSVisionBadAlbCommander|
+INFO_DESC_PANKRATZI7_00000217|Start CSPlayerJoinOUT|
+INFO_DESC_PANKRATZI7_00000216|Start CSKillWeakestElexetor|
+INFO_DESC_PANKRATZI7_00000215|Start CSPlayerJoinKLE|
+INFO_DESC_PANKRATZI7_00000214|Start CSTomsReconversion|
+INFO_DESC_PANKRATZI7_00000213|Start CSRayShowsWaltersHideout|
+INFO_DESC_PANKRATZI7_00000212|Start CSRayShowsJacksonsHideout|
+INFO_DESC_PANKRATZI7_00000211|Start CSRayShowsBombysHideout|
+INFO_DESC_PANKRATZI7_00000210|Start CSRayShowsMasonsHideout|
+INFO_DESC_PANKRATZI7_00000209|Start CSRayShowsLeosHideout|
+INFO_DESC_PANKRATZI7_00000208|Start CSPlayerJoinBSK|
+INFO_DESC_PANKRATZI7_00000207|Start CS_FalkMeetsKonrad|
+INFO_DESC_PANKRATZI7_00000206|Start CSConverterDown_XACW|
+INFO_DESC_PANKRATZI7_00000205|Start CSConverterDown_XACE|
+INFO_DESC_PANKRATZI7_00000204|Start CSConverterDown_TAV|
+INFO_DESC_PANKRATZI7_00000203|Start CSConverterDown_IGN|
+INFO_DESC_PANKRATZI7_00000202|Start CSConverterDown_ABEN|
+INFO_DESC_PANKRATZI7_00000201|Start CSConverterDown_ABES|
+INFO_DESC_PANKRATZI7_00000200|Start CSThoraldIcepalaceBattleSetup|
+INFO_DESC_PANKRATZI7_00000199|Start CSUlbrichtBattleSetup|
+INFO_DESC_PANKRATZI7_00000198|Start CSCajasPunishTeleport|
+INFO_DESC_PANKRATZI7_00000197|Start CSDawkinsMutation|
+INFO_DESC_PANKRATZI7_00000196|Start CSTheBastard|
+INFO_DESC_PANKRATZI7_00000195|Start CSChapterChange4|
+INFO_DESC_PANKRATZI7_00000194|Start CSMyCampPresentation|
+INFO_DESC_PANKRATZI7_00000193|Start CSChapterChange3|
+INFO_DESC_PANKRATZI7_00000192|Start CSChapterChange2|
+INFO_DESC_PANKRATZI7_00000191|Start CSPlayerOpenedSewerTrapdoorCLA|
+INFO_DESC_PANKRATZI7_00000190|Start CSNastysLocation4|
+INFO_DESC_PANKRATZI7_00000189|Start CSNastysLocation3|
+INFO_DESC_PANKRATZI7_00000188|Start CSNastysLocation2|
+INFO_DESC_PANKRATZI7_00000187|Start CSNastysLocation1|
+INFO_DESC_PANKRATZI7_00000186|Start CSRomanceNasty|
+INFO_DESC_PANKRATZI7_00000185|Start CSShowdownWithKallax|
+INFO_DESC_PANKRATZI7_00000184|Start CSKallaxTrap|
+INFO_DESC_PANKRATZI7_00000183|Start CSShowdownWithHybrid nur über console: goto Tarek|
+INFO_DESC_PANKRATZI7_00000182|Start CSGunnAmbushArena|
+INFO_DESC_PANKRATZI7_00000181|Start CSChloeBustsPlayerAsThief|
+INFO_DESC_PANKRATZI7_00000180|Start CSArxConjunction|
+INFO_DESC_PANKRATZI7_00000179|Start CSCajasLocation4|
+INFO_DESC_PANKRATZI7_00000178|Start CSCajasLocation3|
+INFO_DESC_PANKRATZI7_00000177|Start CSCajasLocation2|
+INFO_DESC_PANKRATZI7_00000176|Start CSCajasLocation1|
+INFO_DESC_PANKRATZI7_00000175|Start CSRomanceCaja|
+INFO_DESC_PANKRATZI7_00000174|Start CSPlayerBoughtNewDecorationForHome|
+INFO_DESC_PANKRATZI7_00000173|Start CSPlayerBoughtCraftingbenchOUT|
+INFO_DESC_PANKRATZI7_00000172|Start CSPlayerBoughtCraftingbenchBSK|
+INFO_DESC_PANKRATZI7_00000171|Start CSPlayerBoughtCraftingbenchKLE|
+INFO_DESC_PANKRATZI7_00000170|Start CSPlayerBoughtStandardtMerchantForHOM|
+INFO_DESC_PANKRATZI7_00000169|Start CSArxConjunction|
+INFO_DESC_PANKRATZI7_00000168|Start CSGlidersLastFlight|
+INFO_DESC_PANKRATZI7_00000167|Cutscenes|
+INFO_DESC_PANKRATZI7_00000166|(CSConverterDown_XACW)|
+INFO_DESC_PANKRATZI7_00000165|(CSConverterDown_XACE)|
+INFO_DESC_PANKRATZI7_00000164|(CSConverterDown_TAV)|
+INFO_DESC_PANKRATZI7_00000163|(CSConverterDown_IGN)|
+INFO_DESC_PANKRATZI7_00000162|(CSConverterDown_ABEN)|
+INFO_DESC_PANKRATZI7_00000161|(CSConverterDown_ABES)|
+INFO_DESC_PANKRATZI7_00000160|Set BigBang Battle ready|
+INFO_DESC_PANKRATZI7_00000159|Set Ulbricht Ready for Ulbrichts Battle|
+INFO_DESC_PANKRATZI7_00000158|Then ask Caja.|
+INFO_DESC_PANKRATZI7_00000157|CrewComments_PlayerActionGood|
+INFO_DESC_PANKRATZI7_00000156|(Trade Elex for Mana)|
+INFO_DESC_PANKRATZI7_00000155|CSThoraldIcepalaceBattleSetup|
+INFO_DESC_PANKRATZI7_00000154|CSUlbrichtBattleSetup|
+INFO_DESC_PANKRATZI7_00000153|Run Sestak_ReportZardom|
+INFO_DESC_PANKRATZI7_00000152|StartInstantHybridControlScreen|
+INFO_DESC_PANKRATZI7_00000151|Start CSWardekAgainstElexetors|
+INFO_DESC_PANKRATZI7_00000150|Start CSWardeksHelpAgainstKallax|
+INFO_DESC_PANKRATZI7_00000149|CutsceneInfos|
+INFO_DESC_PANKRATZI7_00000148|Start CSBuildOfAConverter|
+INFO_DESC_PANKRATZI7_00000147|CSArxConjunction|
+INFO_DESC_PANKRATZI7_00000146|TeleportBackToCamp|
+INFO_DESC_PANKRATZI7_00000145|OnInfo_AddLoyaltyAmount dumb|
+INFO_DESC_PANKRATZI7_00000144|OnInfo_AddLoyaltyAmount Caja dumb|
+INFO_DESC_PANKRATZI7_00000143|CSNastyPlayWithTheFire|
+INFO_DESC_PANKRATZI7_00000142|CSCajaMoreThanJustFriends|
+INFO_DESC_PANKRATZI7_00000141|OnInfo_LoyaltyCheck Partymember|
+INFO_DESC_PANKRATZI7_00000140|OnInfo_AddLoyaltyAmount hatecrew|
+INFO_DESC_PANKRATZI7_00000139|OnInfo_LoyaltyCheck Ray|
+INFO_DESC_PANKRATZI7_00000138|OnInfo_LoyaltyCheck Arx|
+INFO_DESC_PANKRATZI7_00000137|OnInfo_LoyaltyCheck Falk|
+INFO_DESC_PANKRATZI7_00000136|OnInfo_LoyaltyCheck Duras|
+INFO_DESC_PANKRATZI7_00000135|OnInfo_LoyaltyCheck Nasty|
+INFO_DESC_PANKRATZI7_00000134|OnInfo_LoyaltyCheck Caja|
+INFO_DESC_PANKRATZI7_00000133|OnInfo_AddLoyaltyAmount Caja hatecrew|
+INFO_DESC_PANKRATZI7_00000132|OnInfo_AddLoyaltyAmount lovecrew|
+INFO_DESC_PANKRATZI7_00000131|OnInfo_AddLoyaltyAmount Caja concrew|
+INFO_DESC_PANKRATZI7_00000130|OnInfo_AddLoyaltyAmount Caja procrew|
+INFO_DESC_PANKRATZI7_00000129|OnInfo_AddLoyaltyAmount Caja lovecrew|
+INFO_DESC_PANKRATZI7_00000128|OnInfo_AddLoyaltyAmount clever|
+INFO_DESC_PANKRATZI7_00000127|OnInfo_AddLoyaltyAmount Caja clever|
+INFO_DESC_PANKRATZI7_00000126|Loyalität|
+INFO_DESC_PANKRATZI7_00000125|CSCajasPunishTeleport|
+INFO_DESC_PANKRATZI7_00000124|CSPlayerSeemsToBeNoRealAlb|
+INFO_DESC_PANKRATZI7_00000123|CSKallaxBecomesElexetor|
+INFO_DESC_PANKRATZI7_00000122|CSWardekAgainstElexetors|
+INFO_DESC_PANKRATZI7_00000121|CSWardeksHelpAgainstKallax|
+INFO_DESC_PANKRATZI7_00000120|CSPlayersGliderRepair|
+INFO_DESC_PANKRATZI7_00000119|CSZardomMeetsTarek|
+INFO_DESC_PANKRATZI7_00000118|CSVisionKallaxMyBrother|
+INFO_DESC_PANKRATZI7_00000117|CSVisionSoldiersWarning|
+INFO_DESC_PANKRATZI7_00000116|CSVisionKallaxMyPal|
+INFO_DESC_PANKRATZI7_00000115|CSVisionBadAlbCommander|
+INFO_DESC_PANKRATZI7_00000114|CSProlog|
+INFO_DESC_PANKRATZI7_00000113|OnQuestSuccess_EndgameSoulConsequences|
+INFO_DESC_PANKRATZI7_00000112|Set SoulSyntheticRange|
+INFO_DESC_PANKRATZI7_00000111|Set SoulNeutralRange|
+INFO_DESC_PANKRATZI7_00000110|Set SoulEmotionalRange|
+INFO_DESC_PANKRATZI7_00000109|Soul|
+INFO_DESC_PANKRATZI7_00000108|Thorald_TheLastFlight success|
+INFO_DESC_PANKRATZI7_00000107|Set Caja_PlayerWantsRomance|
+INFO_DESC_PANKRATZI7_00000106|CSNastysLoccation4|
+INFO_DESC_PANKRATZI7_00000105|CSNastysLocation3|
+INFO_DESC_PANKRATZI7_00000104|CSNastysLocation2|
+INFO_DESC_PANKRATZI7_00000103|CSNastysLocation1|
+INFO_DESC_PANKRATZI7_00000102|CSCajasLocation5|
+INFO_DESC_PANKRATZI7_00000101|CSCajasLocation4|
+INFO_DESC_PANKRATZI7_00000100|CSCajasLocation3|
+INFO_DESC_PANKRATZI7_00000099|CSCajasLocation2|
+INFO_DESC_PANKRATZI7_00000098|CSCajasLocation1|
+INFO_DESC_PANKRATZI7_00000097|CSTomsReconversion|
+INFO_DESC_PANKRATZI7_00000096|CSRayShowsWaltersHideout|
+INFO_DESC_PANKRATZI7_00000095|CSRayShowsJacksonsHideout|
+INFO_DESC_PANKRATZI7_00000094|CSRayShowsBombysHideout|
+INFO_DESC_PANKRATZI7_00000093|CSGlidersLastFlight|
+INFO_DESC_PANKRATZI7_00000092|CSUlbrichtsBattleBegins|
+INFO_DESC_PANKRATZI7_00000091|CSBuildOfAConverter|
+INFO_DESC_PANKRATZI7_00000090|CSHybridsOrder|
+INFO_DESC_PANKRATZI7_00000089|CSPlayerFindsRay|
+INFO_DESC_PANKRATZI7_00000088|CSIntroCrash|
+INFO_DESC_PANKRATZI7_00000087|CSRayShowsMasonsHideout|
+INFO_DESC_PANKRATZI7_00000086|CSRayShowsLeosHideout|
+INFO_DESC_PANKRATZI7_00000085|Set GE Reinhold_JoinKLE|
+INFO_DESC_PANKRATZI7_00000084|Set GE William_JoinOUT|
+INFO_DESC_PANKRATZI7_00000083|CSPlayerJoinOUT|
+INFO_DESC_PANKRATZI7_00000082|CSPlayerJoinKLE|
+INFO_DESC_PANKRATZI7_00000081|Player_BattleAgainstHybrid success|
+INFO_DESC_PANKRATZI7_00000080|Make Zardom ready for chapter change3|
+INFO_DESC_PANKRATZI7_00000079|CSEpilog|
+INFO_DESC_PANKRATZI7_00000078|CSShowdownWithHybrid|
+INFO_DESC_PANKRATZI7_00000077|CSDawkinsMutation|
+INFO_DESC_PANKRATZI7_00000076|Wardek_ShowdownWithKallax running|
+INFO_DESC_PANKRATZI7_00000075|CSShowdownWithKallax|
+INFO_DESC_PANKRATZI7_00000074|CSTheBastard|
+INFO_DESC_PANKRATZI7_00000073|Wardek_InTheDark running|
+INFO_DESC_PANKRATZI7_00000072|Set Chapter 4|
+INFO_DESC_PANKRATZI7_00000071|Wardek_Brotherlove Running|
+INFO_DESC_PANKRATZI7_00000070|CSKallaxTrap|
+INFO_DESC_PANKRATZI7_00000069|Player_ShutDownConverterABEN success|
+INFO_DESC_PANKRATZI7_00000068|Thorald_WarAgainstTheMachine|
+INFO_DESC_PANKRATZI7_00000067|Player_ShutDownConverterXACE success|
+INFO_DESC_PANKRATZI7_00000066|Player_ShutDownConverterXACW|
+INFO_DESC_PANKRATZI7_00000065|Player_ShutDownConverterIGN success|
+INFO_DESC_PANKRATZI7_00000064|Player_ShutDownConverterTAV success|
+INFO_DESC_PANKRATZI7_00000063|Player_ShutDownConverterABES|
+INFO_DESC_PANKRATZI7_00000062|Thorald_FamilyBusiness|
+INFO_DESC_PANKRATZI7_00000061|Ulbricht_HisBattle success|
+INFO_DESC_PANKRATZI7_00000060|Player_FindRaysContract success|
+INFO_DESC_PANKRATZI7_00000059|Harley_BringReactorDevice success|
+INFO_DESC_PANKRATZI7_00000058|CSChapterChange4|
+INFO_DESC_PANKRATZI7_00000057|Set Chapter 3|
+INFO_DESC_PANKRATZI7_00000056|Logan_HelpToBuildBigBang success|
+INFO_DESC_PANKRATZI7_00000055|Konrad_KillBigBang success|
+INFO_DESC_PANKRATZI7_00000054|UpdateMainQuestSituation|
+INFO_DESC_PANKRATZI7_00000052|SetCrewMember Nasty|
+INFO_DESC_PANKRATZI7_00000051|SetCrewMember Crony|
+INFO_DESC_PANKRATZI7_00000050|SetCrewMember Arx|
+INFO_DESC_PANKRATZI7_00000049|SetCrewMember Caja|
+INFO_DESC_PANKRATZI7_00000048|SetCrewMember Ray|
+INFO_DESC_PANKRATZI7_00000047|SetCrewMember Falk|
+INFO_DESC_PANKRATZI7_00000046|SetCrewMember Duras|
+INFO_DESC_PANKRATZI7_00000045|Crew|
+INFO_DESC_PANKRATZI7_00000043|csi_reavertalks|
+INFO_DESC_PANKRATZI7_00000042|CSMyCampPresentation|
+INFO_DESC_PANKRATZI7_00000040|Thorald_ProofOfLoyalty running|
+INFO_DESC_PANKRATZI7_00000039|Chapter 4 Quests|
+INFO_DESC_PANKRATZI7_00000038|(Elevator_Evacuationvoice)|
+INFO_DESC_PANKRATZI7_00000037|(Deactivate Converter)|
+INFO_DESC_PANKRATZI7_00000036|(Deactivate Converter)|
+INFO_DESC_PANKRATZI7_00000035|(Deactivate Converter)|
+INFO_DESC_PANKRATZI7_00000034|(Deactivate Converter)|
+INFO_DESC_PANKRATZI7_00000033|(Deactivate Converter.)|
+INFO_DESC_PANKRATZI7_00000032|(Deactivate Converter.)|
+INFO_DESC_PANKRATZI7_00000031|Set Chapter 2|
+INFO_DESC_PANKRATZI7_00000030|Chapter 3 Quests|
+INFO_DESC_PANKRATZI7_00000029|CSKillWeakestElexetor|
+INFO_DESC_PANKRATZI7_00000028|CSChapterChange3|
+INFO_DESC_PANKRATZI7_00000027|Player_KillWeakestElexetor success|
+INFO_DESC_PANKRATZI7_00000026|Logan_ReportBigBangsStatus success|
+INFO_DESC_PANKRATZI7_00000025|Player_ShutDownConverterABEN success|
+INFO_DESC_PANKRATZI7_00000024|Zardom_AbessaInvasion running|
+INFO_DESC_PANKRATZI7_00000023|Zardom_RecruitCaja success|
+INFO_DESC_PANKRATZI7_00000022|Loyd_PlayerGetsHomebase success|
+INFO_DESC_PANKRATZI7_00000021|Chapter 2 Quests|
+INFO_DESC_PANKRATZI7_00000020|I came to do a job. (Attack Kral)|
+INFO_DESC_PANKRATZI7_00000019|Set GE Ragnar_JoinBSK |
+INFO_DESC_PANKRATZI7_00000018|CSPlayerJoinBSK|
+INFO_DESC_PANKRATZI7_00000017|Player_EmotionChaos success|
+INFO_DESC_PANKRATZI7_00000016|Player_KillFirstAlbs success|
+INFO_DESC_PANKRATZI7_00000015|Ray_MeetHim success|
+INFO_DESC_PANKRATZI7_00000014|Player_JoinGuild success|
+INFO_DESC_PANKRATZI7_00000013|Player_FindGoodStuff success|
+INFO_DESC_PANKRATZI7_00000012|Chapter1 Quests|
+INFO_DESC_PANKRATZI7_00000011|CSChapterChange2|
+INFO_DESC_PANKRATZI7_00000010|CSMeetFirstAlbs|
+INFO_DESC_PANKRATZI7_00000009|Start CSVisionKallaxMyPal|
+INFO_DESC_PANKRATZI7_00000008|Barin murdered Askor. (Lie)|
+INFO_DESC_PANKRATZI7_00000007|The murderer isn't anyone from Goliet. (Lie)|
+INFO_DESC_PANKRATZI7_00000006|Set PartyEnabled True|
+INFO_DESC_PANKRATZI7_00000005|Start Duras_Investigations|
+INFO_DESC_PANKRATZI7_00000004|I didn't see any Albs. I didn't see anyone. (Lie)|
+INFO_DESC_PANKRATZI7_00000003|CSMeetFirstFighter|
+INFO_DESC_PANKRATZI7_00000002|CSFirstLookOnEdan|
+INFO_DESC_BONGERSX2_00000001|Teach me something.|
+INFO_DESC_WEIDMANNI5_00000022|CSPlayerOpenedSewerTrapdoorCLA|
+INFO_DESC_WEIDMANNI5_00000021|Teach me something.|
+INFO_DESC_WEIDMANNI5_00000020|What goods have you got?|
+INFO_DESC_WEIDMANNI5_00000019|(Buy energy bar)|
+INFO_DESC_WEIDMANNI5_00000018|(Buy beer)|
+INFO_DESC_WEIDMANNI5_00000017|(Buy water)|
+INFO_DESC_WEIDMANNI5_00000016|(Buy mana potion)|
+INFO_DESC_WEIDMANNI5_00000015|(Buy healing potion)|
+INFO_DESC_WEIDMANNI5_00000014|(Buy practical furniture)|
+INFO_DESC_WEIDMANNI5_00000013|(Buy futuristic furniture)|
+INFO_DESC_WEIDMANNI5_00000012|(Buy natural furniture)|
+INFO_DESC_WEIDMANNI5_00000009|(Buy Outlaw workbench)|
+INFO_DESC_WEIDMANNI5_00000008|(Buy Berserker workbench)|
+INFO_DESC_WEIDMANNI5_00000007|(Buy Cleric workbench)|
+INFO_DESC_WEIDMANNI5_00000006|(CSPlayerBoughtNewDecorationForHome)|
+INFO_DESC_WEIDMANNI5_00000005|(CSPlayerBoughtCraftingbenchOUT)|
+INFO_DESC_WEIDMANNI5_00000004|(CSPlayerBoughtCraftingbenchKLE)|
+INFO_DESC_WEIDMANNI5_00000003|(CSPlayerBoughtCraftingbenchBSK)|
+INFO_DESC_WEIDMANNI5_00000002|(CSPlayerBoughtStandardtMerchantForHOM)|
+INFO_DESC_WEIDMANNI5_00000001|(Hire trader)|
+INFO_DESC_SLEEP_EVENING|(Sleep until the next evening) |
+INFO_DESC_WEIDMANNX6_00000131|(UpdateABECitySituation Script ausführen)|
+INFO_DESC_WEIDMANNX6_00000130|(+ Punkt für KLE setzen)|
+INFO_DESC_WEIDMANNX6_00000129|(+ Punkt für OUT setzen)|
+INFO_DESC_WEIDMANNX6_00000128|ABECity Situation|
+INFO_DESC_WEIDMANNX6_00000127|You know counterfeit IDs are being sold right in front of your gate? (Show ID card)|
+INFO_DESC_WEIDMANNX6_00000126|I heard your secret society was just a group of thieves was operating from outside the gates. (Lie)|
+INFO_DESC_WEIDMANNX6_00000125|(Show Rat's Claw)|
+INFO_DESC_WEIDMANNX6_00000124|(Show Xander's Claw)|
+INFO_DESC_WEIDMANNX6_00000123|(Show Katta's Claw)|
+INFO_DESC_WEIDMANNX6_00000122|(Use Strange Key)|
+INFO_DESC_WEIDMANNX6_00000121|Set all GameEvents for OUT First Rank by William|
+INFO_DESC_WEIDMANNX6_00000120|Set all GameEvents for OUT Third Rank by William|
+INFO_DESC_WEIDMANNX6_00000119|Set all GameEvents for OUT Second Rank by William|
+INFO_DESC_WEIDMANNX6_00000118|(GameEvents)|
+INFO_DESC_WEIDMANNX6_00000117|(Pray and make donation)|
+INFO_DESC_WEIDMANNX6_00000116|(Pray and make donation)|
+INFO_DESC_WEIDMANNX6_00000115|(Pray and make donation)|
+INFO_DESC_WEIDMANNX6_00000114|(Pray and make donation)|
+INFO_DESC_WEIDMANNX6_00000113|(Pray)|
+INFO_DESC_WEIDMANNX6_00000112|(Pray)|
+INFO_DESC_WEIDMANNX6_00000111|(Pray)|
+INFO_DESC_WEIDMANNX6_00000110|(Pray)|
+INFO_DESC_WEIDMANNX6_00000109|(Throw out weeds)|
+INFO_DESC_WEIDMANNX6_00000107|You're healers here?|
+INFO_DESC_WEIDMANNX6_00000106|How about you pay me and give your word? (Provoke a fight)|
+INFO_DESC_WEIDMANNX6_00000105|Draw your weapon. (Attack Oran)|
+INFO_DESC_WEIDMANNX6_00000104|No, I will attack alone.|
+INFO_DESC_WEIDMANNX6_00000103|Yes, let's begin the attack. (Attack together)|
+INFO_DESC_WEIDMANNX6_00000102|Yes. (Lie)|
+INFO_DESC_WEIDMANNX6_00000100|No. I haven't seen him. (Lie)|
+INFO_DESC_WEIDMANNX6_00000099|The Albs sent me. (Attack Arva)|
+INFO_DESC_WEIDMANNX6_00000098|You will leave Arva and her friend in peace. (Attack Sardoz)|
+INFO_DESC_WEIDMANNX6_00000095|He knows his way around technology, and I'd say his loyalty is to technology, not his faction. (Lie)|
+INFO_DESC_WEIDMANNX6_00000089|You should keep silent. It's too risky to guess. (Decide to help Caleb)|
+INFO_DESC_WEIDMANNX6_00000088|Go to the Clerics and tell them you made a mistake. (Decide to help Fenk)|
+INFO_DESC_WEIDMANNX6_00000086|No, he didn't. (Do not give counterfeit ID card)|
+INFO_DESC_WEIDMANNX6_00000085|Yes, I have something for you. (Give counterfeit ID card)|
+INFO_DESC_WEIDMANNX6_00000083|Do it for free, or I'll put you out of your misery right here, right now. (Threaten)|
+INFO_DESC_WEIDMANNX6_00000082|Yes, I was taken prisoner. (Lie)|
+INFO_DESC_WEIDMANNX6_00000081|(Hack drone)|
+INFO_DESC_WEIDMANNX6_00000080|Einzeillig|
+INFO_DESC_WEIDMANNX6_00000079|Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig Dreizeillig !|
+INFO_DESC_WEIDMANNX6_00000078|Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig Zweizeillig !|
+INFO_DESC_WEIDMANNX6_00000077|Einzeilig|
+INFO_DESC_WEIDMANNX6_00000076|Einzeilig|
+INFO_DESC_WEIDMANNX6_00000075|Einzeilig|
+INFO_DESC_WEIDMANNX6_00000074|Einzeilig|
+INFO_DESC_WEIDMANNX6_00000072|Nach der Quest|
+INFO_DESC_WEIDMANNX6_00000071|Quest abgeben|
+INFO_DESC_WEIDMANNX6_00000070|Während der quest|
+INFO_DESC_WEIDMANNX6_00000069|Quest starten|
+INFO_DESC_WEIDMANNX6_00000068|DialogTest|
+INFO_DESC_WEIDMANNX6_00000067|(Replace AI module)|
+INFO_DESC_WEIDMANNX6_00000064|You're a waste of skin. You might as well die. (Attack Scrappy)|
+INFO_DESC_WEIDMANNX6_00000063|I've heard enough. (End)|
+INFO_DESC_WEIDMANNX6_00000062|I don't care about the chems. (Let Scrappy have them)|
+INFO_DESC_WEIDMANNX6_00000059|It sounds like you really care about your job. (Don't give yourself up)|
+INFO_DESC_WEIDMANNX6_00000058|Yes, I have some information for you. (Betray Orik)|
+INFO_DESC_WEIDMANNX6_00000057|You should forget about Orik. There's nothing to worry about. (Protect Orik)|
+INFO_DESC_WEIDMANNX6_00000056|Caldrim sent me. He said there might be a problem. (Give yourself up)|
+INFO_DESC_WEIDMANNX6_00000055|He is dead. (Cover for Kral)|
+INFO_DESC_WEIDMANNX6_00000054|Kral is in hiding. (Betray Kral)|
+INFO_DESC_WEIDMANNX6_00000052|I see. But, I have orders. No witnesses. (Attack Kid)|
+INFO_DESC_WEIDMANNX6_00000051|I couldn't find Kral. (Lie)|
+INFO_DESC_WEIDMANNX6_00000050|(Say nothing)|
+INFO_DESC_WEIDMANNX6_00000048|You're dead, asshole. (Attack Rat)|
+INFO_DESC_WEIDMANNX6_00000046|Yes. I've got orders for you. You're to return to Goliet. (Lie)|
+INFO_DESC_WEIDMANNX6_00000045|CSChloeBustsPlayerAsThief|
+INFO_DESC_WEIDMANNX6_00000044|(Use Oran's cellar key)|
+INFO_DESC_WEIDMANNX6_00000037|Angrim was behind the trouble. (Reveal Angrim's participation)|
+INFO_DESC_WEIDMANNX6_00000036|Do as you think best. (Hide Angrim's participation)|
+INFO_DESC_WEIDMANNX6_00000035|No. This is nothing to do with me. (Don't offer to help)|
+INFO_DESC_WEIDMANNX6_00000034|Maybe they would listen to me? (Offer to help)|
+INFO_DESC_WEIDMANNX6_00000033|What are you talking about? (Cover for yourself)|
+INFO_DESC_WEIDMANNX6_00000032|I was an Alb. But, I'm free from Elex now. (Give yourself up)|
+INFO_DESC_WEIDMANNX6_00000030|Give me the Elex. Now. (Attack Kral)|
+INFO_DESC_WEIDMANNX6_00000029|+1 Negativer Punkt|
+INFO_DESC_WEIDMANNX6_00000028|+1 Positiver Punkt|
+INFO_DESC_WEIDMANNX6_00000027|BSK Gildenaufnahme Variable setzen|
+INFO_DESC_WEIDMANNX6_00000023|They are...to the north, near the Converter. (Lie)|
+INFO_DESC_WEIDMANNX6_00000022|They are to the west. Where you said they would be. (Truth)|
+INFO_DESC_WEIDMANNX6_00000021|Ornir is stealing technology from the Pit and selling it. (Betray Ornir)|
+INFO_DESC_WEIDMANNX6_00000018|NONE|
+INFO_DESC_WEIDMANNX6_00000017|COM|
+INFO_DESC_WEIDMANNX6_00000016|OUTHIGH|
+INFO_DESC_WEIDMANNX6_00000015|OUTMID|
+INFO_DESC_WEIDMANNX6_00000014|KLEHIGH|
+INFO_DESC_WEIDMANNX6_00000013|KLEMID|
+INFO_DESC_WEIDMANNX6_00000012|BSKHIGH|
+INFO_DESC_WEIDMANNX6_00000011|BSKMID|
+INFO_DESC_WEIDMANNX6_00000010|OUTLOW|
+INFO_DESC_WEIDMANNX6_00000009|KLELOW|
+INFO_DESC_WEIDMANNX6_00000008|BSKLOW|
+INFO_DESC_WEIDMANNX6_00000006|Gilden auswahl|

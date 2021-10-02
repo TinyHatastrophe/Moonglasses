@@ -1,0 +1,23 @@
+﻿ID|English_Text|English_StageDir
+TUT_Tut_LevelUp|You've just leveled up. Open your Adjutor with $(Action) to distribute Attribute Points. Find a teacher and spend Learning Points to learn new skills.|
+TUT_PopUp_ComboBar|Every attack adds to your Combo Bar. With enough Combo Power you can perform a Special Attack $(ActionInput_SpecialMove,Melee). The better you time your attacks the more Combo Power you get.|
+TUT_Tut_QuestLog|Press $(Action) to mark your next mission goal in your Adjutor.|
+TUT_PopUp_PickPocket|Sneak up on people from behind with $(ActionInput_Sneak) to pickpocket them. But make sure nobody is watching you!|
+TUT_PopUp_Heal|Your health has decreased. Use Healing Potions to recover. If you're interrupted during consumption also the healing process stops.|
+TUT_PopUp_BecomingOutlaw|Welcome to the Outlaws!\n\nYou now have access to all special Outlaw skills.|
+TUT_PopUp_CylinderLock|Move the lock pick right and left to set the correct position of the bolts.|
+TUT_Desc_UseQuickslot|Use Quick Slot|
+TUT_PopUp_BecomingCleric|Welcome to the Clerics!\n\nYou now have access to all special Clerics skills.|
+TUT_PopUp_KeypadLock|Find the right combination using the equation. Some digits are higher or lower than others. Green digits are correct and stay, yellow ones are in the wrong place, and red ones are not in the combination.|
+TUT_PopUp_Teleporter|You've activated a teleporter. You can now return anytime to this place through the map on your Adjutor.|
+TUT_PopUp_Teach|Here you can spend your Learning Points and learn new skills, but only if your Attributes are high enough.|
+TUT_PopUp_Parry|You can parry $(ActionInput_SecondaryAction,Melee) or evade $(ActionInput_Evade,Normal) an attack. Also your own attacks can interrupt your enemy's attacks.|
+TUT_PopUp_Craft|With the right skill and the right recipe  you can put gems into sockets here to modify weapons, brew potions or craft jewellery.|
+TUT_PopUp_Combo|Combine Quick Attacks $(ActionInput_PrimaryAction) and Heavy Attacks $(ActionInput_PowerAttack) to combos. The longer the combo, the more damage you deal. Always keep an eye on your Stamina! |
+TUT_Tut_MagicWeapon|You've received a magical weapon. Open the inventory $(Action) and put it in your quick slot bar to use it.|
+TUT_Desc_Jetpack|Use jet pack|
+TUT_Desc_Parade_Melee|Parry|
+TUT_Desc_Combo|Execute Combo Attack|
+TUT_PopUp_BecomingBerserker|Welcome to the Berserkers!\n\nYou now have access to all special Berserker skills.|
+TUT_Desc_Sprint_End|End Sprint|
+TUT_PopUp_Stamina|Actions like sprinting $(ActionInput_Move,Normal) + $(ActionInput_Sprint,Normal), attacking $(ActionInput_PrimaryAction,Melee) / $(ActionInput_PowerAttack,Melee) or evading $(ActionInput_Evade,Normal) cost Stamina. If you're out of Stamina, you can't perform these actions.|
